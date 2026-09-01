@@ -3,7 +3,7 @@
 <h3>NAME : Jeensfer Jo</h3>
 <h3>REGISTER NO : 212225240058</h3>
 <h3>EX. NO 4</h3>
-<h3>DATE</h3>
+<h3>DATE : 30/08/2026</h3>
 <h1> <align=center> MATRIX ADDITION WITH UNIFIED MEMORY </h3>
 
 ## AIM:
